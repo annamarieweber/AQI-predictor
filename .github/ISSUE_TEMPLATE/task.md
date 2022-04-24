@@ -8,8 +8,8 @@ assignees: ''
 
 ---
 
-## Description
+### Description
 
-## Acceptance Criteria
+### Acceptance Criteria
 
-## Additional Context (optional)
+### Additional Context (optional)
