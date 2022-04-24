@@ -61,7 +61,15 @@ To use this project, first clone the repo on your device using the command below
 ## Development
 [(Back to top)](#table-of-contents)
 
-*coming soon*
+1. Create Virtual Environment
+```python3  -m venv .venv```
+
+2. Activate Virtual Environment
+```source .venv/bin/activate```
+
+3. Install Project Dependencies
+```pip install requirements.txt```
+
 
 ## License
 [(Back to top)](#table-of-contents)
