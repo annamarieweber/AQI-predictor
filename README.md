@@ -1,4 +1,4 @@
-![Banner](https://github.com/annamarieweber/AQI-predictor/blob/master/header.png)
+![Banner](header.png)
 
 # AQI-predictor
 
