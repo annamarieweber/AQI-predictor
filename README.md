@@ -68,7 +68,7 @@ To use this project, first clone the repo on your device using the command below
 ```source .venv/bin/activate```
 
 3. Install Project Dependencies
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 
 ## License
